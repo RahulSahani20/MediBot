@@ -1,0 +1,17 @@
+faiss-cpu
+fastapi
+uvicorn
+langchain #Version: 0.3.23
+langchain-community
+langchain-huggingface
+sentence-transformers
+python-dotenv
+pypdf
+huggingface-hub #Version: 0.30.2
+motor
+deep-translator
+python-jose[cryptography]
+passlib[bcrypt]
+pymongo
+pydantic[email]
+email-validator
