@@ -4,7 +4,7 @@ import NavBar from "./Components/NavBar";
 import ChatHistory from "./Components/ChatHistory";
 import ChatBox from "./Components/ChatBox";
 import FirstAidGuide from "./Components/FirstAidGuide";
-import MediBot from "./Components/Medibot";
+import MediBot from "./Components/MediBot";
 import Hero from "./Components/Hero";
 import Footer from "./Components/Footer";
 import Login from "./Components/Login";
